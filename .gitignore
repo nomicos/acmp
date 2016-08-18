@@ -1,0 +1,11 @@
+*.o
+*.exe
+
+bin/
+obj/
+
+*.cbp
+*.depend
+*.layout
+
+main.cpp
