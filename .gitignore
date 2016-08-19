@@ -8,4 +8,4 @@ obj/
 *.depend
 *.layout
 
-main.cpp
+sandbox.cpp
